@@ -7,7 +7,6 @@ from shiny.express import ui, input
 import random
 from datetime import datetime
 from faicons import icon_svg
-import shinylive
 import plotly.express as px
 import pandas as pd
 from collections import deque
