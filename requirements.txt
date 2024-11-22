@@ -1,3 +1,8 @@
 faicons
 shiny
 shinylive
+plotly
+shinyswatch
+pandas
+shinywidgets
+pyarrow
